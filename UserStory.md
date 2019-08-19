@@ -1,4 +1,5 @@
 h4. Motivation
+
 *As a* 
 
 *I want to* 
@@ -7,6 +8,7 @@ h4. Motivation
 
 ----
 h4. Acceptance Criteria
+
 *Given* 
 
 *When I* 
